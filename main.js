@@ -64,12 +64,6 @@ const data = [
   },
 ];
 
-function run() {
-  const main = document.querySelector("main");
-
-  data.forEach(
-    ({ htmlCode }) => (main.innerHTML += `<span>${htmlCode[0]}</span>`)
-  );
-}
+function run() {}
 
 run();
