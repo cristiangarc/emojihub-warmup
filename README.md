@@ -13,3 +13,5 @@
 - Do not change the HTML or CSS files.
 
 - The result that is rendered in the browser should resemble the image above, except it should render all of the images.
+
+\*\* The code that renders emojis resembles something like this `&#128514;`. These characters create actual images in your HTML
