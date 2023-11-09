@@ -1,6 +1,6 @@
 # Emojihub DOM Manipulation
 
-<img src="assets/emoji-page.png" alt="emoji page" width="700" height="550">
+<img src="assets/emoji-page.png" alt="emoji page" width="700" height="600">
 
 ### Instructions
 
