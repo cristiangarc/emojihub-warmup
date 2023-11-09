@@ -1,9 +1,13 @@
 # Emojihub DOM Manipulation
 
+![Emoji Page](emoji-page.png)
+
 ### Instructions
 
 - `Clone` this repo.
 
-- Using the `data` array and JS DOM Manipulation only, place each image in a `span` tag and add all of them in the `main` element in the DOM.
+- Notice the `data` array in `main.js`
+
+- Use JavaScript DOM Manipulation only to place each emoji in a `span` tag and add all of the `span` tags to the `main` element in the DOM.
 
 - Do not change the HTML or CSS files.
