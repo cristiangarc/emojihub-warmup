@@ -64,6 +64,16 @@ const data = [
   },
 ];
 
-function run() {}
+function run() {
+  const main = document.querySelector("main");
+
+  data.forEach((em) => {
+    const emCode = em.htmlCode[0];
+    const newSpan = document.createElement("span");
+    newSpan.innerHTML = `<h2>${emCode}</h2>`;
+    console.log(newSpan);
+    main.append(newSpan);
+  })
+}
 
 run();
